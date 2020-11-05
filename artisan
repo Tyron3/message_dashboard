@@ -50,4 +50,7 @@ $status = $kernel->handle(
 
 $kernel->terminate($input, $status);
 
-exit($status);
+exit($status);/var/www/html/message_dashboard/database
+/var/www/html/message_dashboard/config
+/var/www/html/message_dashboard/bootstrap
+/var/www/html/message_dashboard/app
